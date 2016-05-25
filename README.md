@@ -12,9 +12,9 @@ In two ways:
 
 1. Node.js
 
-```
-node index.js
-```
+    ```
+    node index.js
+    ```
 
 2. Browser
 
