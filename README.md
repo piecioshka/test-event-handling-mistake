@@ -10,19 +10,19 @@
 
 In two ways:
 
-1. Node.js
+* Terminal (use Node.js)
 
     ```
-    node index.js
+    $ node index.js
     ```
 
-2. Browser
+* Browser
 
-Open `demo/index.html` in Google Chrome.
+    Open `demo/index.html` in Google Chrome.
 
 ## Code
 
-One [file](./index.js) with mistake.
+[File](./index.js) with mistake.
 
 ## License 
 
