@@ -1,6 +1,6 @@
 # test-event-handling-mistake
 
-> :ledger: Example of problem with bad error management
+📒 Test app with a problem with bad error management
 
 ## Screenshot
 
